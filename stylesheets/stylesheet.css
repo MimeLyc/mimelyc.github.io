@@ -233,6 +233,7 @@ div.doc:hover,div.project:hover{
 div .doc h1,div .project h1{
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 20px;
+  line-height: 22px;
 }
 
 div .doc strong,div .project strong{
